@@ -1,4 +1,4 @@
-# APS
+# APS(高级计划与排程/排产)
 ## 建模
 1. MtrlObject 物料/产品
 2. BOMObject 物料清单 主键(主物料、清单号)
