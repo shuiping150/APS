@@ -1,4 +1,6 @@
 # APS(高级计划与排程/排产)
+APSV1模型(https://github.com/shuiping150/APS/blob/master/%E6%A8%A1%E5%9E%8B%E8%AF%B4%E6%98%8E.md)
+
 ## 建模
 1. MtrlObject 物料/产品
 2. BOMObject 物料清单 主键(主物料、清单号)
